@@ -1,0 +1,20 @@
+my-employee-management/
+│
+├── client/                       # React frontend app
+│   ├── public/
+│   │   ├── index.html
+│   │   └── ...
+│   ├── src/
+│   │   ├── App.js                # Main React component
+│   │   ├── index.js              # React entry point
+│   │   ├── App.css               # Styles for React app
+│   │   └── ...
+│   ├── package.json              # Frontend dependencies
+│   └── .gitignore                # Git ignore for frontend
+│
+├── server.js                     # Main backend server file (Node.js with Express)
+├── models/                       # Contains all MongoDB models (if you want to split code)
+│   └── Employee.js               # Employee model
+├── package.json                  # Backend dependencies
+├── .gitignore                    # Git ignore for backend
+└── README.md                     # Project documentation (optional)

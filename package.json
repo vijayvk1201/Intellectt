@@ -1,0 +1,23 @@
+{
+  "name": "intellectt",
+  "version": "1.0.0",
+  "description": "node server.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "git init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayvk1201/Intellectt.git"
+  },
+  "keywords": [
+    "git",
+    "add"
+  ],
+  "author": "Vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayvk1201/Intellectt/issues"
+  },
+  "homepage": "https://github.com/vijayvk1201/Intellectt#readme"
+}
